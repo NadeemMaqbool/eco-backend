@@ -10,6 +10,7 @@ class VehicleController extends Controller
 {
     //
 
+
     //home.assignment-699172
     // Api link to get last locations of vehicles
 
